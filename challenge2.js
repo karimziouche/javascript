@@ -1,6 +1,4 @@
-'use strict';
+let a = 1, b = 1;
 
-let admin;
-let name = "John";
-
-admin = name;
+let c = ++a; // 2
+let d = b++ // 1
